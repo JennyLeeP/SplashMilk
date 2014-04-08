@@ -1,0 +1,17 @@
+[
+{
+  "modid": "SplashMilk",
+  "name": "SplashMilk",
+  "description": "Rescue your friends and animals from death by poison with Splash Milk. Or just throw some milk around for the fun of it.",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["JennLeeP"],
+  "credits": "I credit MinecraftForge for their awesome api. Thanks Guys!",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
